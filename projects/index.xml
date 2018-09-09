@@ -6,10 +6,20 @@
     <description>Recent content in Projects on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Feb 2016 04:31:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 31 Aug 2018 03:27:55 +0900</lastBuildDate>
     
 	<atom:link href="https://morizotter.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CITY 3B6FA</title>
+      <link>https://morizotter.github.io/projects/city-3b6fa/</link>
+      <pubDate>Fri, 31 Aug 2018 03:27:55 +0900</pubDate>
+      
+      <guid>https://morizotter.github.io/projects/city-3b6fa/</guid>
+      <description>A full CG animation describing the future city.
+  </description>
+    </item>
     
     <item>
       <title>BNStopwatch</title>

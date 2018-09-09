@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on morita naoki</title>
+    <link>http://example.org/projects/</link>
+    <description>Recent content in Projects on morita naoki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Feb 2016 04:31:51 +0900</lastBuildDate>
+    
+	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BNStopwatch</title>
+      <link>http://example.org/projects/bnstopwatch/</link>
+      <pubDate>Wed, 17 Feb 2016 04:31:51 +0900</pubDate>
+      
+      <guid>http://example.org/projects/bnstopwatch/</guid>
+      <description>When I held a developer event, I looked for a stopwatch/timer with big numbers. That time, I couldn&amp;rsquo;t find out a good one. So , I created.
+BNStopwatch was created for iPad. But it is also available in iPhone &amp;amp; AppleWatch.
+BNStopwatch/AppStore</description>
+    </item>
+    
+  </channel>
+</rss>

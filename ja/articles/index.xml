@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on morita naoki</title>
-    <link>https://morizotter.github.io/ja/articles/</link>
+    <link>https://moritanaoki.org/ja/articles/</link>
     <description>Recent content in Articles on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2018 02:51:00 +0900</lastBuildDate>
     
-	<atom:link href="https://morizotter.github.io/ja/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moritanaoki.org/ja/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CGアニメーション「CITY 3B6FA」を作成しました</title>
-      <link>https://morizotter.github.io/ja/articles/first-cg-animation/</link>
+      <link>https://moritanaoki.org/ja/articles/first-cg-animation/</link>
       <pubDate>Fri, 31 Aug 2018 02:51:00 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/articles/first-cg-animation/</guid>
+      <guid>https://moritanaoki.org/ja/articles/first-cg-animation/</guid>
       <description>CITY 3B6FA 人生初となるCGアニメーションを作成しました。「CITY 3B6FA」というタイトルで、未来の世界を描いています。
 7月の終わりにデザインやストーリーの大枠を決め、8月の最初の2週間で時間があるときに絵コンテやストーリーの調整を行いました。8月の3週目から怒涛の作成作業を開始して、起きている時間は仕事をしているかCGをしているかという状況でした。
   感想 MayaとAfterEffectsを使って初めてフルアニメーション作品を作りました。もっと本物らしい、ダークな感じを出したかったのですが、未熟なこともあり、かけられる時間も限られていたこともあり残念です。ただ、これから継続的に作り続けていけたらいいなと思っています。
@@ -31,20 +31,20 @@
     
     <item>
       <title>Apple Store 銀座でトークイベントを行いました</title>
-      <link>https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/</link>
+      <link>https://moritanaoki.org/ja/articles/speech-at-applestore-ginza/</link>
       <pubDate>Wed, 10 Jun 2015 00:12:58 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/</guid>
+      <guid>https://moritanaoki.org/ja/articles/speech-at-applestore-ginza/</guid>
       <description>AppleStore銀座にて、iOSのアプリのユーザー体験を向上させるUXづくりの秘訣についてトークを行いました。
  【Cookpad✕Wantedly】ユーザ体験を向上させるUXづくりの秘訣    ココロオドルUX  from Naoki Morita</description>
     </item>
     
     <item>
       <title>テックヒルズ×iBeacon ハッカソンで優勝しました</title>
-      <link>https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/</link>
+      <link>https://moritanaoki.org/ja/articles/crooz-ibeacon-hackathon/</link>
       <pubDate>Mon, 30 Jun 2014 23:51:19 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/</guid>
+      <guid>https://moritanaoki.org/ja/articles/crooz-ibeacon-hackathon/</guid>
       <description>6/28に六本木ヒルズCROOZオフィスで行われた「テックヒルズ×iBeacon ハッカソン」で優勝しました。
  テックヒルズ×iBeacon ハッカソン【ハンズオンも同時開催】  1日でCROOZオフィス内の様々な箇所に設置されたBeacon情報を使ってアプリを作るという内容でした。最終的にCROOZ車内を走り回って3分半の動画を作りました。
 ビーコンを検出するのはできたのですが、検出率が悪い。遅い。なので、実装をちょっと変えて、ビーコン検出開始時に全てのビーコンの周りのリージョンを登録して、リージョン内に入ったビーコンは全て検知するやり方に変えた所、検出率が上がり、テストを行った限りでは一度もおかしな検出結果は出なくなりました。これが出来上がったのはハッカソン終了の30分くらい前だったので、それから走ってムービーを撮り、発表資料にくみこみました！</description>
@@ -52,10 +52,10 @@
     
     <item>
       <title>Qiitaのハッカソンで優勝しました</title>
-      <link>https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/</link>
+      <link>https://moritanaoki.org/ja/articles/qiita-hackathon-grandprix/</link>
       <pubDate>Sat, 30 Nov 2013 23:17:07 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/</guid>
+      <guid>https://moritanaoki.org/ja/articles/qiita-hackathon-grandprix/</guid>
       <description>11/9に行われたQiitaのハッカソンで優勝しました。大会の様子は、Qiita Blogでご覧いただけます。商品として、 iPad mini Retina Display model と アマゾンの商品券1万円分 をもらいました。
  Tangiblockを使ったアプリ開発「Qiita Hackathon」を開催しました！  当日、WBS（ワールド・ビジネス・サテライト）のカメラが取材で入っていたので、11/12にはWBSにてビジネスニュースデビューをしました。初めてのハッカソンで緊張して、完成するかどうかも不安で震えながらコーディングしていましが、形にできてしかも優勝までできて本当に良かったです。参加者の方にもとても影響を受けました。
 当日の様子はこちらです。</description>

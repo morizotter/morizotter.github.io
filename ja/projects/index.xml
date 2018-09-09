@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on morita naoki</title>
-    <link>https://morizotter.github.io/ja/projects/</link>
+    <link>https://moritanaoki.org/ja/projects/</link>
     <description>Recent content in Projects on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2018 03:27:55 +0900</lastBuildDate>
     
-	<atom:link href="https://morizotter.github.io/ja/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moritanaoki.org/ja/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CITY 3B6FA</title>
-      <link>https://morizotter.github.io/ja/projects/city-3b6fa/</link>
+      <link>https://moritanaoki.org/ja/projects/city-3b6fa/</link>
       <pubDate>Fri, 31 Aug 2018 03:27:55 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/projects/city-3b6fa/</guid>
+      <guid>https://moritanaoki.org/ja/projects/city-3b6fa/</guid>
       <description>未来の世界を描いたフルCGアニメーション。
   </description>
     </item>
     
     <item>
       <title>BNStopwatch</title>
-      <link>https://morizotter.github.io/ja/projects/bnstopwatch/</link>
+      <link>https://moritanaoki.org/ja/projects/bnstopwatch/</link>
       <pubDate>Sat, 27 Feb 2016 04:31:51 +0900</pubDate>
       
-      <guid>https://morizotter.github.io/ja/projects/bnstopwatch/</guid>
+      <guid>https://moritanaoki.org/ja/projects/bnstopwatch/</guid>
       <description>開発者イベントを開催した際に、大きな数字が表示できるストップウォッチアプリで良いものが見当たりませんでした。そこで、作りました。
 iPad用に作りましたが、iPhoneでもAppleWatchでもご利用いただけます。
 BNStopwatch/AppStore</description>

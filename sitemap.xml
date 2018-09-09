@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>http://example.org/ja/sitemap.xml</loc>
+	   	<loc>https://morizotter.github.io/ja/sitemap.xml</loc>
 		
 	   	<lastmod>2016-02-27T04:31:51+09:00</lastmod>
 		
 	</sitemap>
 	
 	<sitemap>
-	   	<loc>http://example.org/en/sitemap.xml</loc>
+	   	<loc>https://morizotter.github.io/en/sitemap.xml</loc>
 		
 	   	<lastmod>2016-02-17T04:31:51+09:00</lastmod>
 		

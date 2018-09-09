@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>morita naoki</title>
-    <link>http://example.org/ja/</link>
+    <link>https://morizotter.github.io/ja/</link>
     <description>Recent content on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Sep 2018 13:39:30 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/ja/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://morizotter.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BNStopwatch</title>
-      <link>http://example.org/ja/projects/bnstopwatch/</link>
+      <link>https://morizotter.github.io/ja/projects/bnstopwatch/</link>
       <pubDate>Sat, 27 Feb 2016 04:31:51 +0900</pubDate>
       
-      <guid>http://example.org/ja/projects/bnstopwatch/</guid>
+      <guid>https://morizotter.github.io/ja/projects/bnstopwatch/</guid>
       <description>開発者イベントを開催した際に、大きな数字が表示できるストップウォッチアプリで良いものが見当たりませんでした。そこで、作りました。
 iPad用に作りましたが、iPhoneでもAppleWatchでもご利用いただけます。
 BNStopwatch/AppStore</description>
@@ -24,20 +24,20 @@ BNStopwatch/AppStore</description>
     
     <item>
       <title>Apple Store 銀座でトークイベントを行いました</title>
-      <link>http://example.org/ja/articles/speech-at-applestore-ginza/</link>
+      <link>https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/</link>
       <pubDate>Wed, 10 Jun 2015 00:12:58 +0900</pubDate>
       
-      <guid>http://example.org/ja/articles/speech-at-applestore-ginza/</guid>
+      <guid>https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/</guid>
       <description>AppleStore銀座にて、iOSのアプリのユーザー体験を向上させるUXづくりの秘訣についてトークを行いました。
  【Cookpad✕Wantedly】ユーザ体験を向上させるUXづくりの秘訣    ココロオドルUX  from Naoki Morita</description>
     </item>
     
     <item>
       <title>テックヒルズ×iBeacon ハッカソンで優勝しました</title>
-      <link>http://example.org/ja/articles/crooz-ibeacon-hackathon/</link>
+      <link>https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/</link>
       <pubDate>Mon, 30 Jun 2014 23:51:19 +0900</pubDate>
       
-      <guid>http://example.org/ja/articles/crooz-ibeacon-hackathon/</guid>
+      <guid>https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/</guid>
       <description>6/28に六本木ヒルズCROOZオフィスで行われた「テックヒルズ×iBeacon ハッカソン」で優勝しました。
  テックヒルズ×iBeacon ハッカソン【ハンズオンも同時開催】  1日でCROOZオフィス内の様々な箇所に設置されたBeacon情報を使ってアプリを作るという内容でした。最終的にCROOZ車内を走り回って3分半の動画を作りました。
 ビーコンを検出するのはできたのですが、検出率が悪い。遅い。なので、実装をちょっと変えて、ビーコン検出開始時に全てのビーコンの周りのリージョンを登録して、リージョン内に入ったビーコンは全て検知するやり方に変えた所、検出率が上がり、テストを行った限りでは一度もおかしな検出結果は出なくなりました。これが出来上がったのはハッカソン終了の30分くらい前だったので、それから走ってムービーを撮り、発表資料にくみこみました！</description>
@@ -45,10 +45,10 @@ BNStopwatch/AppStore</description>
     
     <item>
       <title>Qiitaのハッカソンで優勝しました</title>
-      <link>http://example.org/ja/articles/qiita-hackathon-grandprix/</link>
+      <link>https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/</link>
       <pubDate>Sat, 30 Nov 2013 23:17:07 +0900</pubDate>
       
-      <guid>http://example.org/ja/articles/qiita-hackathon-grandprix/</guid>
+      <guid>https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/</guid>
       <description>11/9に行われたQiitaのハッカソンで優勝しました。大会の様子は、Qiita Blogでご覧いただけます。商品として、 iPad mini Retina Display model と アマゾンの商品券1万円分 をもらいました。
  Tangiblockを使ったアプリ開発「Qiita Hackathon」を開催しました！  当日、WBS（ワールド・ビジネス・サテライト）のカメラが取材で入っていたので、11/12にはWBSにてビジネスニュースデビューをしました。初めてのハッカソンで緊張して、完成するかどうかも不安で震えながらコーディングしていましが、形にできてしかも優勝までできて本当に良かったです。参加者の方にもとても影響を受けました。
 当日の様子はこちらです。</description>

@@ -3,139 +3,139 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/ja/</loc>
+    <loc>https://morizotter.github.io/ja/</loc>
     <lastmod>2018-09-09T13:39:30+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://morizotter.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/"
+                href="https://morizotter.github.io/ja/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/projects/bnstopwatch/</loc>
+    <loc>https://morizotter.github.io/ja/projects/bnstopwatch/</loc>
     <lastmod>2016-02-27T04:31:51+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/projects/bnstopwatch/"
+                href="https://morizotter.github.io/projects/bnstopwatch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/projects/bnstopwatch/"
+                href="https://morizotter.github.io/ja/projects/bnstopwatch/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/articles/speech-at-applestore-ginza/</loc>
+    <loc>https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/</loc>
     <lastmod>2015-06-10T00:12:58+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/articles/speech-at-applestore-ginza/"
+                href="https://morizotter.github.io/articles/speech-at-applestore-ginza/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/articles/speech-at-applestore-ginza/"
+                href="https://morizotter.github.io/ja/articles/speech-at-applestore-ginza/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/articles/crooz-ibeacon-hackathon/</loc>
+    <loc>https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/</loc>
     <lastmod>2014-06-30T23:51:19+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/articles/crooz-ibeacon-hackathon/"
+                href="https://morizotter.github.io/articles/crooz-ibeacon-hackathon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/articles/crooz-ibeacon-hackathon/"
+                href="https://morizotter.github.io/ja/articles/crooz-ibeacon-hackathon/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/articles/qiita-hackathon-grandprix/</loc>
+    <loc>https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/</loc>
     <lastmod>2013-11-30T23:17:07+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/articles/qiita-hackathon-grandprix/"
+                href="https://morizotter.github.io/articles/qiita-hackathon-grandprix/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/articles/qiita-hackathon-grandprix/"
+                href="https://morizotter.github.io/ja/articles/qiita-hackathon-grandprix/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/articles/</loc>
+    <loc>https://morizotter.github.io/ja/articles/</loc>
     <lastmod>2015-06-10T00:12:58+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/articles/"
+                href="https://morizotter.github.io/articles/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/articles/"
+                href="https://morizotter.github.io/ja/articles/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/categories/</loc>
+    <loc>https://morizotter.github.io/ja/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://morizotter.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/categories/"
+                href="https://morizotter.github.io/ja/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/projects/</loc>
+    <loc>https://morizotter.github.io/ja/projects/</loc>
     <lastmod>2016-02-27T04:31:51+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/projects/"
+                href="https://morizotter.github.io/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/projects/"
+                href="https://morizotter.github.io/ja/projects/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/ja/tags/</loc>
+    <loc>https://morizotter.github.io/ja/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://morizotter.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://example.org/ja/tags/"
+                href="https://morizotter.github.io/ja/tags/"
                 />
   </url>
   

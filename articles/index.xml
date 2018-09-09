@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on morita naoki</title>
-    <link>http://example.org/articles/</link>
+    <link>https://morizotter.github.io/articles/</link>
     <description>Recent content in Articles on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 10 Jun 2015 00:12:58 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://morizotter.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Speech at Applestore Ginza</title>
-      <link>http://example.org/articles/speech-at-applestore-ginza/</link>
+      <link>https://morizotter.github.io/articles/speech-at-applestore-ginza/</link>
       <pubDate>Wed, 10 Jun 2015 00:12:58 +0900</pubDate>
       
-      <guid>http://example.org/articles/speech-at-applestore-ginza/</guid>
+      <guid>https://morizotter.github.io/articles/speech-at-applestore-ginza/</guid>
       <description>I talked about the secret of making UX to improve the user experience of iOS applications at AppleStore Ginza.
  【Cookpad✕Wantedly】ユーザ体験を向上させるUXづくりの秘訣    ココロオドルUX  from Naoki Morita</description>
     </item>
     
     <item>
       <title>I won Crooz Ibeacon Hackathon</title>
-      <link>http://example.org/articles/crooz-ibeacon-hackathon/</link>
+      <link>https://morizotter.github.io/articles/crooz-ibeacon-hackathon/</link>
       <pubDate>Mon, 30 Jun 2014 23:51:19 +0900</pubDate>
       
-      <guid>http://example.org/articles/crooz-ibeacon-hackathon/</guid>
+      <guid>https://morizotter.github.io/articles/crooz-ibeacon-hackathon/</guid>
       <description>I won the Grand Prix in the hackathon held in CROOZ office on Jun 28th.
  テックヒルズ×iBeacon ハッカソン【ハンズオンも同時開催】  The hackathon is to make an iOS application using iBeacon installed in various places in CROOZ office in one day. Finally, I ran around CROOZ and made a 3 and a half minutes demo movie.
 It was easy to detect a beacon, but the detection rate is bad. So, I changed the implementation slightly.</description>
@@ -34,10 +34,10 @@ It was easy to detect a beacon, but the detection rate is bad. So, I changed the
     
     <item>
       <title>I won the Grand Prix in Qiita Hackathon</title>
-      <link>http://example.org/articles/qiita-hackathon-grandprix/</link>
+      <link>https://morizotter.github.io/articles/qiita-hackathon-grandprix/</link>
       <pubDate>Sat, 30 Nov 2013 23:17:07 +0900</pubDate>
       
-      <guid>http://example.org/articles/qiita-hackathon-grandprix/</guid>
+      <guid>https://morizotter.github.io/articles/qiita-hackathon-grandprix/</guid>
       <description>I won the Qiita hackathon held on Nov. 9th. You can see the scene in Qiita Blog. As a prize, I got iPad mini Retina Display model and Amazon gift card 10,000yen.
 At that day, the camera of WBS(World Business Satellite), Japanese business news broadcasting service was there, so, I debuted to the tv news. Because it was my first hackathon, I was very nervous and I didn&amp;rsquo;t know it succeeds until the end.</description>
     </item>

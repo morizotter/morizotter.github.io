@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Template on morita naoki</title>
+    <link>https://moritanaoki.org/tags/template/</link>
+    <description>Recent content in Template on morita naoki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Sep 2018 06:13:42 +0900</lastBuildDate>
+    
+	<atom:link href="https://moritanaoki.org/tags/template/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Profile web site</title>
+      <link>https://moritanaoki.org/projects/moritanaoki_profile_website/</link>
+      <pubDate>Tue, 11 Sep 2018 06:13:42 +0900</pubDate>
+      
+      <guid>https://moritanaoki.org/projects/moritanaoki_profile_website/</guid>
+      <description>Profile web site for me! This web site :)</description>
+    </item>
+    
+  </channel>
+</rss>

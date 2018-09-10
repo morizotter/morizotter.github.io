@@ -5,6 +5,16 @@
   <url>
     <loc>https://moritanaoki.org/ja/projects/moritanaoki_profile_website/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/projects/moritanaoki_profile_website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/projects/moritanaoki_profile_website/"
+                />
   </url>
   
   <url>
@@ -227,6 +237,16 @@
     <loc>https://moritanaoki.org/ja/tags/css/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/css/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/css/"
+                />
   </url>
   
   <url>
@@ -249,12 +269,32 @@
     <loc>https://moritanaoki.org/ja/tags/github-hosting/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/github-hosting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/github-hosting/"
+                />
   </url>
   
   <url>
     <loc>https://moritanaoki.org/ja/tags/hugo/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/hugo/"
+                />
   </url>
   
   <url>
@@ -325,6 +365,16 @@
     <loc>https://moritanaoki.org/ja/tags/multilingual/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/multilingual/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/multilingual/"
+                />
   </url>
   
   <url>
@@ -347,6 +397,16 @@
     <loc>https://moritanaoki.org/ja/tags/responsive/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/responsive/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/responsive/"
+                />
   </url>
   
   <url>
@@ -385,6 +445,16 @@
     <loc>https://moritanaoki.org/ja/tags/template/</loc>
     <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/template/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/template/"
+                />
   </url>
   
 </urlset>

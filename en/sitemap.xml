@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/projects/room/</loc>
+    <lastmod>2017-12-23T06:49:43+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/projects/room/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/projects/room/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/projects/bnstopwatch/</loc>
     <lastmod>2016-02-17T04:31:51+09:00</lastmod>
     <xhtml:link
@@ -230,6 +245,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://moritanaoki.org/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/tags/character-design/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/character-design/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/character-design/"
                 />
   </url>
   
@@ -406,6 +437,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://moritanaoki.org/tags/responsive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/tags/story/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/story/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/story/"
                 />
   </url>
   

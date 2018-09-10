@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3dcg on morita naoki</title>
-    <link>https://moritanaoki.org/tags/3dcg/</link>
-    <description>Recent content in 3dcg on morita naoki</description>
+    <title>Character Design on morita naoki</title>
+    <link>https://moritanaoki.org/tags/character-design/</link>
+    <description>Recent content in Character Design on morita naoki</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2018 03:27:55 +0900</lastBuildDate>
     
-	<atom:link href="https://moritanaoki.org/tags/3dcg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://moritanaoki.org/tags/character-design/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://moritanaoki.org/projects/city-3b6fa/</guid>
       <description>A full CG animation describing the future city.
   </description>
-    </item>
-    
-    <item>
-      <title>Room</title>
-      <link>https://moritanaoki.org/projects/room/</link>
-      <pubDate>Sat, 23 Dec 2017 06:49:43 +0900</pubDate>
-      
-      <guid>https://moritanaoki.org/projects/room/</guid>
-      <description>My first CG work.</description>
     </item>
     
   </channel>

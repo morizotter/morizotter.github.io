@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://moritanaoki.org/ja/projects/moritanaoki_profile_website/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/</loc>
     <lastmod>2018-09-09T13:39:30+09:00</lastmod>
     <xhtml:link
@@ -219,6 +224,12 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/tags/css/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/tags/gcp-zync/</loc>
     <lastmod>2018-08-31T03:27:55+09:00</lastmod>
     <priority>0</priority>
@@ -232,6 +243,18 @@
                 hreflang="ja"
                 href="https://moritanaoki.org/ja/tags/gcp-zync/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/github-hosting/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/hugo/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -299,8 +322,14 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/tags/multilingual/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/projects/</loc>
-    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -312,6 +341,12 @@
                 hreflang="ja"
                 href="https://moritanaoki.org/ja/projects/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/responsive/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -344,6 +379,12 @@
                 hreflang="ja"
                 href="https://moritanaoki.org/ja/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/template/</loc>
+    <lastmod>2018-09-11T06:13:42+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gcp Zync on morita naoki</title>
+    <link>https://moritanaoki.org/tags/gcp-zync/</link>
+    <description>Recent content in Gcp Zync on morita naoki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Aug 2018 03:27:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://moritanaoki.org/tags/gcp-zync/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CITY 3B6FA</title>
+      <link>https://moritanaoki.org/projects/city-3b6fa/</link>
+      <pubDate>Fri, 31 Aug 2018 03:27:55 +0900</pubDate>
+      
+      <guid>https://moritanaoki.org/projects/city-3b6fa/</guid>
+      <description>A full CG animation describing the future city.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

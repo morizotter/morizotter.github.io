@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ipad on morita naoki</title>
+    <link>https://moritanaoki.org/ja/tags/ipad/</link>
+    <description>Recent content in Ipad on morita naoki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Feb 2016 04:31:51 +0900</lastBuildDate>
+    
+	<atom:link href="https://moritanaoki.org/ja/tags/ipad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BNStopwatch</title>
+      <link>https://moritanaoki.org/ja/projects/bnstopwatch/</link>
+      <pubDate>Sat, 27 Feb 2016 04:31:51 +0900</pubDate>
+      
+      <guid>https://moritanaoki.org/ja/projects/bnstopwatch/</guid>
+      <description>開発者イベントを開催した際に、大きな数字が表示できるストップウォッチアプリで良いものが見当たりませんでした。そこで、作りました。
+iPad用に作りましたが、iPhoneでもAppleWatchでもご利用いただけます。
+BNStopwatch/AppStore</description>
+    </item>
+    
+  </channel>
+</rss>

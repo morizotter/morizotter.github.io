@@ -108,6 +108,86 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/tags/3dcg/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/3dcg/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/3dcg/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/after-effects/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/after-effects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/after-effects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/animation/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/animation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/animation/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/appletv/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/appletv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/appletv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/applewatch/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/applewatch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/applewatch/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/articles/</loc>
     <lastmod>2018-08-31T02:51:00+09:00</lastmod>
     <priority>0</priority>
@@ -139,6 +219,86 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/tags/gcp-zync/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/gcp-zync/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/gcp-zync/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/ios/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/ios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/ios/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/ipad/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/ipad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/ipad/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/iphone/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/iphone/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/iphone/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/ja/tags/maya/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/maya/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/maya/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/projects/</loc>
     <lastmod>2018-08-31T03:27:55+09:00</lastmod>
     <priority>0</priority>
@@ -155,7 +315,24 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/tags/swift/</loc>
+    <lastmod>2016-02-27T04:31:51+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/swift/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/swift/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/tags/</loc>
+    <lastmod>2018-08-31T03:27:55+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"

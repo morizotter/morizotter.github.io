@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Animation on morita naoki</title>
+    <link>https://moritanaoki.org/ja/tags/animation/</link>
+    <description>Recent content in Animation on morita naoki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Aug 2018 03:27:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://moritanaoki.org/ja/tags/animation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CITY 3B6FA</title>
+      <link>https://moritanaoki.org/ja/projects/city-3b6fa/</link>
+      <pubDate>Fri, 31 Aug 2018 03:27:55 +0900</pubDate>
+      
+      <guid>https://moritanaoki.org/ja/projects/city-3b6fa/</guid>
+      <description>未来の世界を描いたフルCGアニメーション。
+  </description>
+    </item>
+    
+  </channel>
+</rss>

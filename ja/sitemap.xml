@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/ja/articles/katagiri-chokoku/</loc>
+    <lastmod>2018-07-23T22:59:56+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/articles/katagiri-chokoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/articles/katagiri-chokoku/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/ja/projects/katagiri-chokoku/</loc>
     <lastmod>2018-07-23T19:02:15+09:00</lastmod>
     <xhtml:link

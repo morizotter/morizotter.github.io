@@ -38,7 +38,17 @@ Web Mobile </description>
       
       <guid>https://moritanaoki.org/articles/first-cg-animation/</guid>
       <description>CITY 3B6FA CITY 3B6FA is my first try to make a full CG animation. It describes a future city.
-The end of July, I decided an outlook of the world and in the first 2 weeks of August, I created a storyboard and character design. From the 3rd week of August, I began work on modelling and animation. That time, I always work for a daily job and CG except for sleep time.</description>
+The end of July, I decided an outlook of the world, and in the first two weeks of August, I created a storyboard and character design. From the 3rd week of August, I began work on modelling and animation. That time, I always work for a daily job and CG except for sleep time.</description>
+    </item>
+    
+    <item>
+      <title>Goblin with cray sculpture</title>
+      <link>https://moritanaoki.org/articles/katagiri-chokoku/</link>
+      <pubDate>Mon, 23 Jul 2018 22:59:56 +0900</pubDate>
+      
+      <guid>https://moritanaoki.org/articles/katagiri-chokoku/</guid>
+      <description>I joined in Yuji Katagiri sculpture seminar and created the goblin with clay sculpture.
+Can&amp;rsquo;t make A clay sculpture using clay is my first experience. I tried to design by myself. And I could not make the one I intended. I hit mentally against a wall from where a big shape began to appear. There were not enough details in my design. Around eyes, cheeks, mouth and forehead, I could not understand.</description>
     </item>
     
     <item>
@@ -81,14 +91,14 @@ BNStopwatch/AppStore</description>
     </item>
     
     <item>
-      <title>I won CROOZ Ibeacon Hackathon</title>
+      <title>CROOZ iBeacon Hackathon Grand Prix</title>
       <link>https://moritanaoki.org/articles/crooz-ibeacon-hackathon/</link>
       <pubDate>Mon, 30 Jun 2014 23:51:19 +0900</pubDate>
       
       <guid>https://moritanaoki.org/articles/crooz-ibeacon-hackathon/</guid>
       <description>I won the Grand Prix in the hackathon held in CROOZ office on Jun 28th.
  テックヒルズ×iBeacon ハッカソン【ハンズオンも同時開催】  The hackathon is to make an iOS application using iBeacon installed in various places in CROOZ office in one day. Finally, I ran around CROOZ and made a 3 and a half minutes demo movie.
-It was easy to detect a beacon, but the detection rate is bad. So, I changed the implementation slightly.</description>
+It was easy to detect a beacon, but the detection rate is terrible. So, I changed the implementation slightly.</description>
     </item>
     
     <item>
@@ -98,7 +108,7 @@ It was easy to detect a beacon, but the detection rate is bad. So, I changed the
       
       <guid>https://moritanaoki.org/articles/qiita-hackathon-grandprix/</guid>
       <description>I won the Qiita hackathon held on Nov. 9th. You can see the scene in Qiita Blog. As a prize, I got iPad mini Retina Display model and Amazon gift card 10,000yen.
-At that day, the camera of WBS(World Business Satellite), Japanese business news broadcasting service was there, so, I debuted to the tv news. Because it was my first hackathon, I was very nervous and I didn&amp;rsquo;t know it succeeds until the end.</description>
+At that day, the camera of WBS(World Business Satellite), Japanese business news broadcasting service was there, so, I debuted to the tv news. Because it was my first hackathon, I was very nervous, and I didn&amp;rsquo;t know it succeeds until the end.</description>
     </item>
     
   </channel>

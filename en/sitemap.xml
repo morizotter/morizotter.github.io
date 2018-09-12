@@ -63,6 +63,21 @@
   </url>
   
   <url>
+    <loc>https://moritanaoki.org/projects/katagiri-chokoku/</loc>
+    <lastmod>2018-07-23T19:02:15+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/projects/katagiri-chokoku/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/projects/katagiri-chokoku/"
+                />
+  </url>
+  
+  <url>
     <loc>https://moritanaoki.org/projects/room/</loc>
     <lastmod>2017-12-23T06:49:43+09:00</lastmod>
     <xhtml:link
@@ -437,6 +452,22 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://moritanaoki.org/tags/responsive/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://moritanaoki.org/tags/sculpture/</loc>
+    <lastmod>2018-07-23T19:02:15+09:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://moritanaoki.org/ja/tags/sculpture/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moritanaoki.org/tags/sculpture/"
                 />
   </url>
   
